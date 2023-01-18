@@ -1,11 +1,19 @@
 body {
-  
+ 
 }
 
-p {
-    color:whitesmoke;
-    font-size: 22px;
-    text-align: center;
+.texto {
+  position: absolute;
+  background-color: rgba(0,0,0,0.5);
+  color:#fff;
+  font-size: 30px;
+  font-weight: bold;
+  text-align: center;
+  top: 20px;
+  width: 250px;
+  line-height: 100px;
+  height: 100px;
+  right: 40%;
 
 }
 
@@ -16,8 +24,12 @@ p {
     padding: 170px;
     background-image: url("https://images3.alphacoders.com/169/169085.png");
     top: 300px;
+   
 }
 
 button {
-  background: dimgrey;
+  transition: all 0.5s;
+  cursor: pointer;
+ 
 }
+
