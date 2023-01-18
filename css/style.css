@@ -1,8 +1,11 @@
-h1 {
+body {
+  
+}
+
+p {
     color:whitesmoke;
-    margin-bottom: 20px;
-  font-size: 22px;
-  text-align: center;
+    font-size: 22px;
+    text-align: center;
 
 }
 
@@ -11,6 +14,10 @@ h1 {
     grid-template-columns: 150px 150px 150px;
     justify-content: center;
     padding: 170px;
-    background: black;
-    
+    background-image: url("https://images3.alphacoders.com/169/169085.png");
+    top: 300px;
+}
+
+button {
+  background: dimgrey;
 }
