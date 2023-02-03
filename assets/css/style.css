@@ -2,6 +2,12 @@
   --branco: #fff;
   --preto: rgba(0,0,0,0.5);
 }
+
+body {
+  background-image: url("https://images3.alphacoders.com/169/169085.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
 .texto {
   position: absolute;
   background-color: var(--preto);
@@ -22,7 +28,6 @@
     grid-template-columns: 150px 150px 150px;
     justify-content: center;
     padding: 170px;
-    background-image: url("https://images3.alphacoders.com/169/169085.png");
     top: 300px;
     align-items: center;
    
