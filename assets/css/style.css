@@ -6,29 +6,29 @@
 body {
   background-image: url("https://images3.alphacoders.com/169/169085.png");
   background-repeat: no-repeat;
-  background-size: cover;
+  background-size: 100%;
 }
 .texto {
   position: absolute;
   background-color: var(--preto);
   color:var(--branco);
-  font-size: 30px;
+  font-size: 1.87rem;
   font-weight: bold;
   text-align: center;
-  top: 20px;
-  width: 250px;
-  line-height: 100px;
-  height: 100px;
-  right: 40%;
+  top: 1.25rem;
+  width: 50%;
+  line-height: 6.25rem;
+  height: 7%;
+  right: 25%;
 
 }
 
 .bateria {
     display: grid;
-    grid-template-columns: 150px 150px 150px;
+    grid-template-columns: 9.37rem 9.37rem 9.37rem;
     justify-content: center;
-    padding: 170px;
-    top: 300px;
+    padding: 10.62rem;
+    top: 18.75rem;
     align-items: center;
    
 }
