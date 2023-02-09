@@ -6,7 +6,7 @@
 body {
   background-image: url("https://images3.alphacoders.com/169/169085.png");
   background-repeat: no-repeat;
-  background-size: 100%;
+  background-size: cover;
 }
 .texto {
   position: absolute;
